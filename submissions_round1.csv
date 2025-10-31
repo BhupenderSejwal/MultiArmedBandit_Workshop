@@ -1,0 +1,9 @@
+timestamp,name,strategy,details,steps,seed_env,seed_agent,total_reward
+2025-10-31T21:40:36.462343,Your Name,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
+2025-10-31T21:42:48.074596,Bhupender,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
+2025-10-31T21:42:55.432765,Bhupender,epsilon_greedy,fixed_eps=0.1,5000,42,123,4677
+2025-10-31T21:43:05.997344,Lakhi,epsilon_greedy,fixed_eps=0.1,5000,42,123,4677
+2025-10-31T21:45:37.064073,Lakhi,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
+2025-10-31T21:46:13.872657,Lakhi,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
+2025-10-31T21:46:21.566099,Lakhi,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
+2025-10-31T21:48:35.022455,Lakhi,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
